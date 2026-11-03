@@ -221,7 +221,7 @@ deliverables/
 
 1. Copy your forked repository URL: Go to your forked repo on GitHub (it should look something like):
    
-     `https://github.com/<your-username>/eng298-sp26-mod7-sbom-lab2`
+     `https://github.com/<your-username>/eng298-fa26-mod7-sbom-lab2`
    
    - Copy the URL from your browser’s address bar.
 
